@@ -1,0 +1,66 @@
+.div1{
+    padding-right: 200px;
+    display: flex;
+    padding-top: 20px;
+}
+.div2{
+    display: flex;
+}
+.div3{
+    padding-right: 240px;
+    color: grey;
+}
+.div4{
+    padding-left: 70px;
+    color: grey;
+}
+#is-present{
+    border: 1px solid green;
+    color: green;
+    background-color: green;
+}
+.white{
+    color: white;
+}
+#table-primary{
+    background-color: aqua;
+    color: white;
+}
+.container1{
+    background-color: darkcyan;
+}
+.input2{
+    width: 100%;
+}
+.input3{
+align-items: center;
+    width: 90%;
+    margin: 10px 20px;
+}
+.container2{
+    padding: 10px;
+    margin: 0;
+}
+.form-select1{
+    width: 70%;
+    margin-left: 20px;
+}
+
+.li1{
+    opacity: 80%;
+}
+
+.footer{
+    position: absolute;
+    bottom: 1px;
+    left: 50px;
+    background-color: blue;
+    color: white;
+}
+.left-50{
+    background-color: blue;
+}
+.white{
+    color: white;
+}
+

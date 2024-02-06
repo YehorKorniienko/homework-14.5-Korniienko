@@ -1,0 +1,124 @@
+
+.container2{
+    margin-top: 10%;
+    }
+    #password{
+        margin-bottom: 20px;
+    }
+    .input1{
+    width: 100%;
+    }
+    .body1{
+        background-image: url(https://www.zoda.gov.ua/images/article/1/000119/119803/foto.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        backface-visibility: visible;
+    }
+    .div1{
+        margin: auto;
+        padding: 20px;
+        background-color: gainsboro;
+        opacity: 80%;
+        margin-top: 50px;
+        width: 500px;
+    
+    }
+    .btn-primary{
+        color: white;
+        margin:10px 0px;
+    }
+    .white{
+        color: white;
+    }
+    .a1{
+        text-decoration: none;
+    }
+    .container1{
+        background-color: darkcyan;
+    }
+    .li1{
+        opacity: 80%;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .p1{
+        display: block;
+    padding: 10px;
+    }
+    
+    .span1{
+        padding: 10px;
+        font-size: 30px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    td{
+    padding: 30px;
+    border: 1px solid black;
+    text-align: center;
+    }
+    
+    .tr1{
+        background-color: antiquewhite;
+    }
+    .tr1:nth-child(odd){
+        background-color: aliceblue;
+    }
+    th{
+        background-color: rgb(0, 94, 94);
+    }
+    
+    .col-badge{
+        position: absolute;
+        top: 5px;
+        right: 5px;
+    }
+    .td5{
+        background-color: blue;
+        color: white;
+    }
+    .table1{
+        justify-content: space-around;
+        position: relative;
+        width: 100%;
+    }
+    .input2{
+        margin-bottom: 20px;
+    }
+    .footer{
+        background-color: blue;
+        color: white;
+    width: 100%;
+    position: absolute;
+bottom: 1px;
+left: 50px;
+    }
+
+    .white{
+        color: white;
+    }
+    .footer-f{
+        position: absolute;
+        bottom: -120px;
+        left: 50px;
+        background-color: blue;
+        color: white;
+    }
